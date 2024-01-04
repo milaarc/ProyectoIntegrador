@@ -1,0 +1,1612 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+/* .encabezado, .principal{
+position: absolute;
+background: #093931;
+} */
+/* Container 1 */
+.encabezado{
+    position: absolute;
+    height: 821px;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    background: #093931;
+    background-image: url(./assets/vector\ fondo.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    }
+.encabezado span {
+position: absolute;
+width: 95px;
+height: 46px;
+left: 132px;
+
+font-family: 'Cormorant Garamond', serif;
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 46px;
+
+color: #F5D38E;
+}
+
+/* Header Menu 1 */
+.encabezado nav {
+position: absolute;
+width: 431px;
+height: 43px;
+right: 218px;
+
+border-radius: 4px;
+}
+.encabezado a{
+padding: 10px;
+text-decoration: none;    
+font-family: 'Manrope', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 22px;
+/* identical to box height, or 157% */
+
+color: #FFFFFF;
+
+}
+
+.encabezado img{
+width: 20px;
+height: 20px;
+top: 21px;
+left: 1244px;
+padding: 2.5px, 3.5px, 2.5px, 3.5px;
+}
+
+.principal h1{
+position: absolute;    
+width: 537px;
+height: 282px;
+top: 232px;
+left: 132px;
+
+font-family: Cormorant Garamond;
+font-size: 72px;
+font-weight: 400;
+line-height: 94px;
+letter-spacing: 0em;
+text-align: left;
+
+color:  #F5D38E;
+
+}
+.vector {
+    position: absolute;
+    width: 1440px;
+    height: 821px;
+    }
+    
+.principal button {
+position:absolute;
+width: 200px;
+height: 52px;
+top: 538px;
+left: 132px;
+padding: 12px, 59px, 12px, 59px;
+border-radius: 26px;
+border: 1px solid white;
+background: transparent;
+font-family: Manrope;
+font-size: 18px;
+font-weight: 400;
+line-height: 28px;
+color: #FFFFFF;
+}
+
+.imagen1{
+position: absolute;
+width: 407px;
+height: 543px;
+top: 139px;
+left: 741px;
+}
+.imagen2{
+position: absolute;
+width: 241px;
+height: 321px;
+top: 250px;
+left: 1051px;
+border-radius: 121px, 121px, 0px, 0px;
+
+}
+
+.reproductor {
+position: absolute;
+width: 52px;
+height: 52px;
+top: 385px;
+left: 1146px;
+padding: 10.5px;
+border-radius: 26px;
+border: 1px;
+}
+
+.segunda {
+position: absolute;
+display: flex;
+height: 232px;
+left: 0px;
+right: 0px;
+top: 845px;
+
+background: #FFFFFF;
+}
+
+/* Container 1 */
+
+
+
+
+/* Love message 1 */
+.love  {
+position: absolute;
+width: 62px;
+height: 62px;
+left: calc(50% - 62px/2 + 1px);
+top: 36px;
+
+}
+
+/* Customer care */
+.Costumer {
+position: absolute;
+width: 120px;
+height: 28px;
+left: calc(50% - 120px/2 + 2px);
+top: 116px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+text-align: center;
+color: #171A1F;
+
+}
+
+/* Ea esse elit anim commodo laborum pariatur nisi. Voluptate elit d */
+.costumerp{
+position: absolute;
+width: 276px;
+height: 52px;
+left: calc(50% - 276px/2 + 1px);
+top: 144px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+text-align: center;
+
+color: #9095A0;
+}
+
+
+/* Delivery time 1 */
+.time{
+position: absolute;
+width: 62px;
+height: 62px;
+left: calc(50% - 62px/2 - 402px);
+top: 36px;
+}
+
+/* Delivery */
+.delivery{
+position: absolute;
+width: 70px;
+height: 28px;
+left: calc(50% - 70px/2 - 401px);
+top: 116px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+text-align: center;
+
+color: #171A1F;
+}
+
+/* Ea esse elit anim commodo laborum pariatur nisi. Voluptate elit d */
+.deliveryp{
+position: absolute;
+width: 276px;
+height: 52px;
+left: calc(50% - 276px/2 - 402px);
+top: 144px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+text-align: center;
+
+color: #9095A0;
+}
+
+
+/* Lock landscape 1 */
+.lock{
+position: absolute;
+width: 62px;
+height: 62px;
+left: calc(50% - 62px/2 + 404px);
+top: 36px;
+}
+
+
+/* Payment security */
+.Payment{
+
+position: absolute;
+width: 143px;
+height: 28px;
+left: calc(50% - 143px/2 + 405.5px);
+top: 116px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+text-align: center;
+
+color: #171A1F;
+
+
+}
+
+
+/* Ea esse elit anim commodo laborum pariatur nisi. Voluptate elit d */
+.paymentp{
+position: absolute;
+width: 276px;
+height: 40px;
+left: calc(50% - 276px/2 + 404px);
+top: 144px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+text-align: center;
+
+color: #9095A0;
+
+}
+
+
+/* Container 1 */
+.tercera {
+position: absolute;
+height: 506px;
+left: 0px;
+right: 0px;
+top: 1101px;
+
+background: #FFFFFF;
+
+}
+/* Container 1 */
+.tercera1{
+position: absolute;
+width: 276px;
+height: 410px;
+left: 444px;
+top: calc(50% - 410px/2);
+background: #FFFFFF;
+box-shadow: 0px 0px 2px rgba(23, 26, 31, 0.12), 0px 0px 1px rgba(23, 26, 31, 0.07);
+border-radius: 8px;
+} 
+
+.tercera1 img{
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 90px;
+    background: url(.jpg);
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+    }
+/* Radiance Necklace */
+.radiance{
+position: absolute;
+width: 180px;
+height: 36px;
+left: 12px;
+bottom: 42px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height, or 150% */
+
+color: #171A1F;
+}
+
+
+/* $168.76 */
+.precio1{
+position: absolute;
+width: 57px;
+height: 26px;
+left: 12px;
+bottom: 18px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+color: #171A1F;
+
+}
+
+
+
+
+/* Featured Products */
+.featured{
+position: absolute;
+width: 264px;
+height: 112px;
+left: 132px;
+top: calc(50% - 112px/2 - 143px);
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 56px;
+/* or 140% */
+
+color: #0D554A;
+
+}
+
+/* Container 1 */
+.tercera2{
+position: absolute;
+width: 276px;
+height: 410px;
+left: 744px;
+top: calc(50% - 410px/2);
+background: #FFFFFF;
+box-shadow: 0px 0px 2px rgba(23, 26, 31, 0.12), 0px 0px 1px rgba(23, 26, 31, 0.07);
+border-radius: 8px;
+}
+
+/* Exquisite Earrings */
+.exquisite{
+position: absolute;
+width: 172px;
+height: 36px;
+left: 12px;
+bottom: 42px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height, or 150% */
+
+color: #171A1F;
+}
+
+
+/* $125.28 */
+.precio2{
+position: absolute;
+width: 57px;
+height: 26px;
+left: 12px;
+bottom: 18px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+color: #171A1F;
+}
+
+
+/* Image 1 */
+.image2{
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 90px;
+border-top-right-radius: 8px;
+border-top-left-radius: 8px;
+background: url(.jpg);
+}
+
+/* Container 1 */
+.tercera3{
+position: absolute;
+width: 276px;
+height: 410px;
+left: 1044px;
+top: calc(50% - 410px/2);
+
+background: #FFFFFF;
+box-shadow: 0px 0px 2px rgba(23, 26, 31, 0.12), 0px 0px 1px rgba(23, 26, 31, 0.07);
+border-radius: 8px;
+}
+
+/* Glamour Necklace */
+.glamour{
+position: absolute;
+width: 178px;
+height: 36px;
+left: 12px;
+bottom: 42px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height, or 150% */
+
+color: #171A1F;
+}
+
+
+/* $620.73 */
+.precio3{
+position: absolute;
+width: 60px;
+height: 26px;
+left: 12px;
+bottom: 18px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+color: #171A1F;
+}
+
+
+/* Image 1 */
+.image3{
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 90px;
+border-top-right-radius: 8px;
+border-top-left-radius: 8px;
+background: url(.jpg);
+}
+
+/* Quis Lorem laborum quis esse officia ad commodo commodo anim est et nulla  */
+.textoizq{
+position: absolute;
+width: 264px;
+height: 78px;
+left: 132px;
+top: calc(50% - 78px/2 - 36px);
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+color: #9095A0;
+}
+
+
+/* Button 1 */
+.tercera button{
+box-sizing: border-box;
+
+position: absolute;
+width: 200px;
+height: 52px;
+left: 132px;
+top: calc(50% - 52px/2 + 53px);
+
+border: 1px solid #0D554A;
+border-radius: 26px;
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+color: #0D554A;
+}
+
+
+
+
+
+/* Container 1 */
+.tercera4{
+position: absolute;
+width: 276px;
+height: 410px;
+left: 1344px;
+top: calc(50% - 410px/2);
+
+background: #FFFFFF;
+box-shadow: 0px 0px 2px rgba(23, 26, 31, 0.12), 0px 0px 1px rgba(23, 26, 31, 0.07);
+border-radius: 8px;
+}
+
+/* Delights Earrings */
+.delights{
+position: absolute;
+width: 164px;
+height: 36px;
+left: 12px;
+bottom: 42px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height, or 150% */
+
+color: #171A1F;
+}
+
+
+/* $327.71 */
+.precio4{
+position: absolute;
+width: 53px;
+height: 26px;
+left: 12px;
+bottom: 18px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+color: #171A1F;
+}
+
+
+/* Image 1 */
+.image4{
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 90px;
+border-top-right-radius: 8px;
+border-top-left-radius: 8px;
+background: url(.jpg);
+}
+
+/* Container 1 */
+.tercera5{
+position: absolute;
+width: 276px;
+height: 410px;
+left: 1656px;
+top: calc(50% - 410px/2);
+
+background: #FFFFFF;
+box-shadow: 0px 0px 2px rgba(23, 26, 31, 0.12), 0px 0px 1px rgba(23, 26, 31, 0.07);
+border-radius: 8px;
+}
+
+/* Dreamy Necklace */
+.dreamy{
+position: absolute;
+width: 167px;
+height: 36px;
+left: 12px;
+bottom: 42px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height, or 150% */
+
+color: #171A1F;
+}
+
+
+/* $327.71 */
+.precio5{
+position: absolute;
+width: 54px;
+height: 26px;
+left: 12px;
+bottom: 18px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+color: #171A1F;
+}
+
+
+/* Image 1 */
+.image5{
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 90px;
+border-top-right-radius: 8px;
+border-top-left-radius: 8px;
+background: url(.jpg);
+}
+
+/* Container 1 */
+.cuarta{
+position: absolute;
+height: 1082px;
+left: 0px;
+right: 0px;
+top: 1607px;
+
+background: #FFFFFF;
+
+}
+/* Our Collections */
+.our{
+position: absolute;
+width: 255px;
+height: 56px;
+left: calc(50% - 255px/2 - 13.5px);
+top: 48px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 56px;
+/* identical to box height, or 140% */
+text-align: center;
+
+color: #0D554A;
+}
+
+
+/* Container 1 */
+.cuarta1{
+    position: absolute;
+    width: 360px;
+    height: 360px;
+    left: calc(50% - 360px/2 - 408px);
+    top: 186px;
+    
+    background: #9095A0;
+    box-shadow: 0px 0px 2px rgba(23, 26, 31, 0.12), 0px 0px 1px rgba(23, 26, 31, 0.07);
+    border-radius: 8px;
+    }
+        /* Button 1 */
+        .cuarta button{
+            box-sizing: border-box;
+            
+            position: absolute;
+            width: 200px;
+            height: 52px;
+            left: calc(50% - 200px/2);
+            top: 982px;
+            
+            border: 1px solid #0D554A;
+            border-radius: 26px;
+            font-family: 'Manrope';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 18px;
+            line-height: 28px;
+            /* identical to box height, or 156% */
+            
+            color: #0D554A;
+            
+            }
+    /* Image 1 */
+    .cuarta1 img{
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    border-radius: 8px;
+    background: url(.jpg);
+    }
+    
+    /* Luxurious Lustre */
+    .luxurious{
+    position: absolute;
+    width: 212px;
+    height: 48px;
+    left: calc(50% - 212px/2);
+    bottom: 24px;
+    
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 48px;
+    /* identical to box height, or 150% */
+    text-align: center;
+    
+    color: #FFFFFF;
+    }
+    
+    
+    /* Container 1 */
+    .cuarta2{
+    position: absolute;
+    width: 360px;
+    height: 360px;
+    left: calc(50% - 360px/2);
+    top: 150px;
+    
+    background: #9095A0;
+    box-shadow: 0px 0px 2px rgba(23, 26, 31, 0.12), 0px 0px 1px rgba(23, 26, 31, 0.07);
+    border-radius: 8px;
+    }
+    
+    /* Image 1 */
+    .cuarta2 img{
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    border-radius: 8px;
+    background: url(.jpg);
+    }
+    
+    /* Radiant Reflections */
+    .radiant{
+    position: absolute;
+    width: 249px;
+    height: 48px;
+    left: calc(50% - 249px/2 - 0.5px);
+    bottom: 24px;
+    
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 48px;
+    /* identical to box height, or 150% */
+    text-align: center;
+    
+    color: #FFFFFF;
+    }
+    
+    
+    /* Container 1 */
+    .cuarta3{
+    position: absolute;
+    width: 360px;
+    height: 360px;
+    left: calc(50% - 360px/2 + 411px);
+    top: 186px;
+    
+    background: #9095A0;
+    box-shadow: 0px 0px 2px rgba(23, 26, 31, 0.12), 0px 0px 1px rgba(23, 26, 31, 0.07);
+    border-radius: 8px;
+    }
+    
+    /* Image 1 */
+    .cuarta3 img{
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    border-radius: 8px;
+    background: url(.jpg);
+    }
+    
+    /* Majestic Mementos */
+    .majestic{
+    position: absolute;
+    width: 244px;
+    height: 48px;
+    left: calc(50% - 244px/2);
+    bottom: 24px;
+    
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 48px;
+    /* identical to box height, or 150% */
+    text-align: center;
+    
+    color: #FFFFFF;
+    }
+    
+    
+
+    
+/* Container 1 */
+.cuarta4{
+position: absolute;
+width: 360px;
+height: 360px;
+left: calc(50% - 360px/2 - 408px);
+top: 586px;
+
+background: #9095A0;
+box-shadow: 0px 0px 2px rgba(23, 26, 31, 0.12), 0px 0px 1px rgba(23, 26, 31, 0.07);
+border-radius: 8px;
+
+}
+/* Image 1 */
+.cuarta4 img{
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+border-radius: 8px;
+background: url(.jpg);
+}
+
+/* Blissful Baubles */
+.blissful{
+position: absolute;
+width: 194px;
+height: 48px;
+left: calc(50% - 194px/2);
+bottom: 24px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 48px;
+/* identical to box height, or 150% */
+text-align: center;
+
+color: #FFFFFF;
+}
+
+
+/* Container 1 */
+.cuarta5{
+position: absolute;
+width: 360px;
+height: 360px;
+left: calc(50% - 360px/2);
+top: 550px;
+
+background: #9095A0;
+box-shadow: 0px 0px 2px rgba(23, 26, 31, 0.12), 0px 0px 1px rgba(23, 26, 31, 0.07);
+border-radius: 8px;
+}
+
+/* Image 1 */
+.cuarta5 img{
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+border-radius: 8px;
+background: url(.jpg);
+}
+
+/* Timeless Treasures */
+.timeless{
+position: absolute;
+width: 234px;
+height: 48px;
+left: calc(50% - 234px/2 - 2px);
+bottom: 24px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 48px;
+/* identical to box height, or 150% */
+text-align: center;
+
+color: #FFFFFF;
+}
+
+
+/* Container 1 */
+.cuarta6{
+position: absolute;
+width: 360px;
+height: 360px;
+left: calc(50% - 360px/2 + 411px);
+top: 586px;
+
+background: #9095A0;
+box-shadow: 0px 0px 2px rgba(23, 26, 31, 0.12), 0px 0px 1px rgba(23, 26, 31, 0.07);
+border-radius: 8px;
+}
+
+/* Image 1 */
+.cuarta6 img{
+position: absolute;
+left: 2px;
+right: -2px;
+top: 0px;
+bottom: 0px;
+border-radius: 8px;
+background: url(.jpg);
+}
+
+/* Divine Diamonds */
+.divine{
+position: absolute;
+width: 219px;
+height: 48px;
+left: calc(50% - 219px/2 + 0.5px);
+bottom: 24px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 48px;
+/* identical to box height, or 150% */
+text-align: center;
+
+color: #FFFFFF;
+}
+
+
+
+
+
+/* Container 1 */
+.quinta{
+position: absolute;
+height: 554px;
+left: 0px;
+right: 0px;
+top: 2713px;
+
+background: #FAFAFB;
+}
+/* Our Selection of Jewelry */
+.ourselection{
+    position: absolute;
+    width: 264px;
+    height: 112px;
+    left: 132px;
+    top: calc(50% - 112px/2 - 143px);
+    
+    font-family: 'Cormorant Garamond';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 56px;
+    /* or 140% */
+    
+    color: #0D554A;
+    }
+/* Container 1 */
+.quinta1{
+position: absolute;
+width: 276px;
+height: 410px;
+left: 444px;
+top: calc(50% - 410px/2);
+
+background: #FFFFFF;
+box-shadow: 0px 0px 2px rgba(23, 26, 31, 0.12), 0px 0px 1px rgba(23, 26, 31, 0.07);
+border-radius: 8px;
+}
+
+/* Shimmering Ring */
+.shimmering{
+position: absolute;
+width: 170px;
+height: 36px;
+left: 12px;
+bottom: 42px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height, or 150% */
+
+color: #171A1F;
+}
+
+
+/* $168.76 */
+.precioquinto1{
+position: absolute;
+width: 57px;
+height: 26px;
+left: 12px;
+bottom: 18px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+color: #171A1F;
+}
+
+
+/* Image 1 */
+.quinta1 img{
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 90px;
+border-top-right-radius: 8px ;
+border-top-left-radius: 8px;
+background: url(.jpg);
+}
+
+
+
+
+/* Container 1 */
+.quinta2{
+position: absolute;
+width: 276px;
+height: 410px;
+left: 744px;
+top: calc(50% - 410px/2);
+
+background: #FFFFFF;
+box-shadow: 0px 0px 2px rgba(23, 26, 31, 0.12), 0px 0px 1px rgba(23, 26, 31, 0.07);
+border-radius: 8px;
+}
+
+/* Exquisite Earrings */
+.exquisitee{
+position: absolute;
+width: 172px;
+height: 36px;
+left: 12px;
+bottom: 42px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height, or 150% */
+
+color: #171A1F;
+}
+
+
+/* $125.28 */
+.precioquinto2{
+position: absolute;
+width: 57px;
+height: 26px;
+left: 12px;
+bottom: 18px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+color: #171A1F;
+}
+
+
+/* Image 1 */
+.quinta2 img{
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 90px;
+border-top-right-radius: 8px ;
+border-top-left-radius: 8px;
+background: url(.jpg);
+}
+
+/* Container 1 */
+.quinta3{
+position: absolute;
+width: 276px;
+height: 410px;
+left: 1044px;
+top: calc(50% - 410px/2);
+
+background: #FFFFFF;
+box-shadow: 0px 0px 2px rgba(23, 26, 31, 0.12), 0px 0px 1px rgba(23, 26, 31, 0.07);
+border-radius: 8px;
+}
+
+/* Elegance Earrings */
+.elegance{
+position: absolute;
+width: 169px;
+height: 36px;
+left: 12px;
+bottom: 42px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height, or 150% */
+
+color: #171A1F;
+}
+
+
+/* $620.73 */
+.precioquinto3{
+position: absolute;
+width: 60px;
+height: 26px;
+left: 12px;
+bottom: 18px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+color: #171A1F;
+}
+
+
+/* Image 1 */
+.quinta3 img{
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 90px;
+border-top-right-radius: 8px ;
+border-top-left-radius: 8px;
+background: url(.jpg);
+}
+
+/* Nulla ad magna exercitation elit reprehenderit cupidatat veniam velit aliqu */
+.texto{
+position: absolute;
+width: 264px;
+height: 78px;
+left: 132px;
+top: calc(50% - 78px/2 - 36px);
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+color: #424955;
+}
+
+
+/* Button 1 */
+.quinta button{
+box-sizing: border-box;
+
+position: absolute;
+width: 200px;
+height: 52px;
+left: 132px;
+top: calc(50% - 52px/2 + 53px);
+
+border: 1px solid #0D554A;
+border-radius: 26px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+color: #0D554A;
+}
+
+
+/* Container 1 */
+.quinta4{
+position: absolute;
+width: 276px;
+height: 410px;
+left: 1344px;
+top: calc(50% - 410px/2);
+
+background: #FFFFFF;
+box-shadow: 0px 0px 2px rgba(23, 26, 31, 0.12), 0px 0px 1px rgba(23, 26, 31, 0.07);
+border-radius: 8px;
+}
+
+/* Luxury Charms Brooch */
+.luxury{
+position: absolute;
+width: 222px;
+height: 36px;
+left: 12px;
+bottom: 42px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height, or 150% */
+
+color: #171A1F;
+}
+
+
+/* $327.71 */
+.precioquinto4{
+position: absolute;
+width: 53px;
+height: 26px;
+left: 12px;
+bottom: 18px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+color: #171A1F;
+}
+
+
+/* Image 1 */
+.quinta4 img{
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 90px;
+border-top-right-radius: 8px ;
+border-top-left-radius: 8px;
+background: url(.jpg);
+}
+
+/* Container 1 */
+.quinta5{
+position: absolute;
+width: 276px;
+height: 410px;
+left: 1656px;
+top: calc(50% - 410px/2);
+
+background: #FFFFFF;
+box-shadow: 0px 0px 2px rgba(23, 26, 31, 0.12), 0px 0px 1px rgba(23, 26, 31, 0.07);
+border-radius: 8px;
+}
+
+/* Blissful Bloom Ring */
+.blissfulbloom{
+position: absolute;
+width: 190px;
+height: 36px;
+left: 12px;
+bottom: 42px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height, or 150% */
+
+color: #171A1F;
+}
+
+
+/* $327.71 */
+.precioquinto5{
+position: absolute;
+width: 54px;
+height: 26px;
+left: 12px;
+bottom: 18px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+color: #171A1F;
+}
+
+
+/* Image 1 */
+.quinta5 img{
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 90px;
+border-top-right-radius: 8px ;
+border-top-left-radius: 8px;
+background: url(.jpg);
+}
+
+.sexta{
+position: absolute;
+height: 564px;
+left: 0px;
+right: 0px;
+top: 3267px;
+
+background: #FAFAFB;
+}
+
+/* Image 1 */
+.imagencompleta {
+    position: absolute;
+    width: 1176px;
+    height: 368px;
+    top: 124px;
+    left: 132px;
+    border-radius: 8px;
+    
+}
+
+/* Our story */
+.sexta h6{
+position: absolute;
+width: 154px;
+height: 56px;
+left: calc(50% - 154px/2 - 8px);
+top: 48px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 56px;
+/* identical to box height, or 140% */
+text-align: center;
+
+color: #0D554A;
+}
+
+
+/* Icon Button 1 */
+.imagenboton{
+position: absolute;
+width: 52px;
+height: 52px;
+top: 282px;
+left: 694px;
+padding: 10.5px;
+border-radius: 26px;
+}
+
+/* Container 1 */
+.piedepagina{
+position: absolute;
+height: 522px;
+left: 0px;
+right: 0px;
+bottom: 230px;
+width: 1440px;
+height: 522px;
+top: 3831px;
+background: #093931;
+}
+
+
+
+/* From the people  */
+.fromthepeople{
+position: absolute;
+width: 311px;
+height: 68px;
+left: 132px;
+top: calc(50% - 68px/2 - 58px);
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 600;
+font-size: 48px;
+line-height: 68px;
+/* identical to box height, or 142% */
+
+color: #FFFFFF;
+}
+
+
+/* We love hearing from our customers! You’re the reason we’re here and the reason we do what we do. */
+.pparte1{
+position: absolute;
+width: 264px;
+height: 104px;
+left: 132px;
+top: calc(50% - 104px/2 + 40px);
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+color: #FFFFFF;
+}
+
+
+/* Container 1 */
+.parte2{
+position: absolute;
+width: 696px;
+height: 375px;
+right: 132px;
+top: calc(50% - 375px/2 - 1.5px);
+
+background: rgba(23, 26, 31, 0.3);
+border-radius: 8px;
+}
+
+/* Image 1 */
+.piedepaginaimg{
+position: absolute;
+width: 300px;
+height: 375px;
+left: 0px;
+top: 0px;
+
+background: url(.jpg);
+}
+
+/* The ring itself is stunning, with a beautiful design that catches the light and sparkles from every angle. The quality of the materials used is evident, as the ring feels substantial and durable. The gemstone is exquisite, with a vibrant color and exceptional clarity. */
+.pparte2{
+position: absolute;
+height: 182px;
+left: 336px;
+right: 36px;
+top: 60px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+color: #FFFFFF;
+}
+
+
+/* Anna Fernandez */
+.nombreanna{
+position: absolute;
+width: 156px;
+height: 30px;
+left: 336px;
+top: 260px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height, or 150% */
+
+color: #FFFFFF;
+}
+
+
+/* USA */
+.nombreusa{
+position: absolute;
+width: 31px;
+height: 26px;
+left: 336px;
+top: 290px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+color: #FFFFFF;
+}
+
+
+/* Icon Button 1 */
+.izqboton1{
+    position: absolute;
+    display: flex;
+    width: 52px;
+    height: 52px;
+    padding: 10.5px;
+    left: 530px;
+    top: 340px;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+}
+
+.derboton2{
+    position: absolute;
+    display: flex;
+    width: 52px;
+    height: 52px;
+    padding: 10.5px;
+    left: 600px;
+    top: 340px;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+}
