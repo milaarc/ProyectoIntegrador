@@ -5,113 +5,59 @@
     margin: 0;
     padding: 0;
 }
-
 .encabezado{
     position: absolute;
     width: 1440px;
-    height: 450px;
+    height: 62px;
     left: 0px;
     right: 0px;
     top: 0px;
     background: #093931;
-    background-image: url(./assets/vectorfondo2.png);
-    background-size: cover;
-    background-repeat: no-repeat;
 
     }
 .encabezado span {
-position: absolute;
-width: 95px;
-height: 46px;
-left: 132px;
-
-font-family: 'Cormorant Garamond', serif;
-font-style: normal;
-font-weight: 400;
-font-size: 30px;
-line-height: 46px;
-
-color: #F5D38E;
-}
-
-/* Header Menu 1 */
-.encabezado nav {
-position: absolute;
-width: 431px;
-height: 43px;
-right: 218px;
-
-border-radius: 4px;
-}
-.encabezado a{
-padding: 10px;
-text-decoration: none;    
-font-family: 'Manrope', sans-serif;
-font-style: normal;
-font-weight: 400;
-font-size: 14px;
-line-height: 22px;
-/* identical to box height, or 157% */
-
-color: #FFFFFF;
-
-}
-
-.encabezado img{
-width: 20px;
-height: 20px;
-padding-left: 10px;
-}
-
-/* Our Products */
-.principal h1{
-position: absolute;
-width: 330px;
-height: 82px;
-left: calc(50% - 330px/2);
-top: 146px;
-
-font-family: 'Cormorant Garamond';
-font-style: normal;
-font-weight: 400;
-font-size: 62px;
-line-height: 82px;
-/* identical to box height, or 132% */
-text-align: center;
-
-color: #F5D38E;
-}
-
-/* Textbox 2 */
-.principal input{
-position: absolute;
-width: 757px;
-height: 51px;
-left: calc(50% - 757px/2 - 0.5px);
-top: 252px;
-background: #FFFFFF;
-border: 1px solid #F8F9FA;
-border-radius: 26px;
-padding-left: 52px;
-font-family: 'Manrope';
-font-style: normal;
-font-weight: 400;
-font-size: 18px;
-line-height: 28px;
-
-color: #323842;
-}
-
-
-/* Search */
-.principal img{
-position: absolute;
-width: 24px;
-height: 24px;
-left: 400px;
-flex-shrink: 0;
-top: 265px;
-}
+    position: absolute;
+    width: 95px;
+    height: 46px;
+    left: 132px;
+    
+    font-family: 'Cormorant Garamond', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 46px;
+    
+    color: #F5D38E;
+    }
+    
+    /* Header Menu 1 */
+    .encabezado nav {
+    position: absolute;
+    width: 431px;
+    height: 43px;
+    right: 218px;
+    
+    border-radius: 4px;
+    }
+    .encabezado a{
+    padding: 10px;
+    text-decoration: none;    
+    font-family: 'Manrope', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    /* identical to box height, or 157% */
+    
+    color: #FFFFFF;
+    
+    }
+    
+    .encabezado img{
+    width: 20px;
+    height: 20px;
+    padding-left: 10px;
+    }
 
 
 
@@ -124,7 +70,9 @@ top: 265px;
 
 
 
-/* Container 1 */
+
+
+    /* Container 1 */
 .parte3{
     position: absolute;
     width: 1440px;
