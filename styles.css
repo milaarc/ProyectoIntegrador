@@ -12,6 +12,7 @@ background: #093931;
 /* Container 1 */
 .encabezado{
     position: absolute;
+    width: 1440px;
     height: 821px;
     left: 0px;
     right: 0px;
@@ -59,12 +60,11 @@ color: #FFFFFF;
 
 }
 
+
 .encabezado img{
 width: 20px;
 height: 20px;
-top: 21px;
-left: 1244px;
-padding: 2.5px, 3.5px, 2.5px, 3.5px;
+padding-left: 10px;
 }
 
 .principal h1{
