@@ -67,6 +67,668 @@
 
 
 
+/* Container 5 */
+.primera{
+position: absolute;
+height: 949px;
+left: 132px;
+right: 132px;
+top: 888px;
+
+background: #FAFAFB;
+border-radius: 8px;
+}
+
+/* Image 5 */
+.imagenprimera{
+position: absolute;
+height: 581px;
+left: 72px;
+right: 72px;
+top: 296px;
+
+background: url(.jpg);
+border-radius: 8px;
+}
+
+/* Exquisite Elegance and Timeless Charm */
+.primera h1{
+position: absolute;
+width: 626px;
+height: 56px;
+left: 72px;
+top: 98px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 56px;
+/* identical to box height, or 140% */
+
+color: #0D554A;
+}
+
+
+/* Description */
+.primera p{
+position: absolute;
+width: 86px;
+height: 26px;
+left: 72px;
+top: 48px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+color: #323842;
+}
+
+
+/* Lorem esse et culpa proident duis mollit nisi proident elit pariatur elit sit consectetur et do proident ea voluptate deserunt. Consequat dolore qui aute magna voluptate enim qui id cillum enim excepteur occaecat culpa deserunt eu.Culpa labore incididunt labore proident eu anim in. */
+.primera h2{
+position: absolute;
+height: 84px;
+left: 72px;
+right: 72px;
+top: 166px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* or 156% */
+
+color: #323842;
+}
+
+/* Icon Button 3 */
+.boton{
+position: absolute;
+width: 52px;
+height: 52px;
+left: 562px;
+top: 561px;
+
+background: #FFFFFF;
+border-radius: 26px;
+}
+
+/* Container 5 */
+.segunda{
+position: absolute;
+height: 232px;
+left: 0px;
+right: 0px;
+top: 1899px;
+
+background: #FFFFFF;
+}
+
+/* Love message 3 */
+.love{
+position: absolute;
+width: 62px;
+height: 62px;
+left: calc(50% - 62px/2 + 1px);
+top: 36px;
+}
+
+
+/* Customer care */
+.Costumer{
+position: absolute;
+width: 104px;
+height: 28px;
+left: calc(50% - 104px/2 + 2px);
+top: 116px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+text-align: center;
+
+color: #171A1F;
+}
+
+
+/* Ea esse elit anim commodo laborum pariatur nisi. Voluptate elit d */
+.costumerp{
+position: absolute;
+width: 276px;
+height: 52px;
+left: calc(50% - 276px/2 + 1px);
+top: 144px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+text-align: center;
+
+color: #9095A0;
+}
+
+
+/* Delivery time 3 */
+.time{
+position: absolute;
+width: 62px;
+height: 62px;
+left: calc(50% - 62px/2 - 402px);
+top: 36px;
+}
+
+/* Delivery */
+.delivery{
+position: absolute;
+width: 60px;
+height: 28px;
+left: calc(50% - 60px/2 - 401px);
+top: 116px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+text-align: center;
+
+color: #171A1F;
+}
+
+
+/* Ea esse elit anim commodo laborum pariatur nisi. Voluptate elit d */
+.deliveryp{
+position: absolute;
+width: 276px;
+height: 52px;
+left: calc(50% - 276px/2 - 402px);
+top: 144px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+text-align: center;
+
+color: #9095A0;
+}
+
+
+/* Lock landscape 3 */
+.lock{
+position: absolute;
+width: 62px;
+height: 62px;
+left: calc(50% - 62px/2 + 404px);
+top: 36px;
+}
+
+/* Payment security */
+.Payment{
+position: absolute;
+width: 121px;
+height: 28px;
+left: calc(50% - 121px/2 + 405.5px);
+top: 116px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 600;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+text-align: center;
+
+color: #171A1F;
+}
+
+
+/* Ea esse elit anim commodo laborum pariatur nisi. Voluptate elit d */
+.paymentp{
+position: absolute;
+width: 276px;
+height: 40px;
+left: calc(50% - 276px/2 + 404px);
+top: 144px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+text-align: center;
+
+color: #9095A0;
+}
+
+/* Container 5 */
+.tercera{
+position: absolute;
+height: 586px;
+left: 0px;
+right: 0px;
+top: 2161px;
+
+background: #FFFFFF;
+}
+
+/* You may also like */
+.tercera h1{
+position: absolute;
+width: 270px;
+height: 56px;
+left: 132px;
+top: 48px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 56px;
+/* identical to box height, or 140% */
+
+color: #0D554A;
+}
+
+
+/* Container 5 */
+.tercera6{
+position: absolute;
+width: 276px;
+height: 410px;
+left: 1632px;
+top: 128px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 2px rgba(23, 26, 31, 0.12), 0px 0px 1px rgba(23, 26, 31, 0.07);
+border-radius: 8px;
+}
+
+/* Mementos Necklace */
+.tercera6 h1{
+position: absolute;
+width: 192px;
+height: 36px;
+left: 12px;
+top: 332px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height, or 150% */
+
+color: #171A1F;
+}
+
+
+/* $264.22 */
+.tercera6 p{
+position: absolute;
+width: 60px;
+height: 26px;
+left: 12px;
+top: 366px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+color: #171A1F;
+}
+
+
+/* Image 5 */
+.tercera6 img{
+position: absolute;
+height: 320px;
+left: 0px;
+right: 0px;
+top: 0px;
+border-top-right-radius: 8px;
+border-top-left-radius: 8px;
+background: url(.jpg);
+}
+
+/* Container 5 */
+.tercera1{
+position: absolute;
+width: 276px;
+height: 410px;
+left: 132px;
+top: 128px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 2px rgba(23, 26, 31, 0.12), 0px 0px 1px rgba(23, 26, 31, 0.07);
+border-radius: 8px;
+}
+
+/* Radiance Necklace */
+.tercera1 h1{
+position: absolute;
+width: 180px;
+height: 36px;
+left: 12px;
+bottom: 42px;
+top: 332px;
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height, or 150% */
+
+color: #171A1F;
+}
+
+
+/* $168.76 */
+.tercera1 p{
+position: absolute;
+width: 57px;
+height: 26px;
+left: 12px;
+bottom: 18px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+color: #171A1F;
+}
+
+
+/* Image 5 */
+.tercera1 img{
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 90px;
+border-top-right-radius: 8px;
+border-top-left-radius: 8px;
+background: url(.jpg);
+}
+
+/* Container 5 */
+.tercera2{
+position: absolute;
+width: 276px;
+height: 410px;
+left: 432px;
+top: 128px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 2px rgba(23, 26, 31, 0.12), 0px 0px 1px rgba(23, 26, 31, 0.07);
+border-radius: 8px;
+}
+
+/* Exquisite Earrings */
+.tercera2 h1{
+position: absolute;
+width: 172px;
+height: 36px;
+left: 12px;
+bottom: 42px;
+top: 332px;
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height, or 150% */
+
+color: #171A1F;
+}
+
+
+/* $125.28 */
+.tercera2 p{
+position: absolute;
+width: 57px;
+height: 26px;
+left: 12px;
+bottom: 18px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+color: #171A1F;
+}
+
+
+/* Image 5 */
+.tercera2 img{
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 90px;
+border-top-right-radius: 8px;
+border-top-left-radius: 8px;
+background: url(.jpg);
+}
+
+/* Container 5 */
+.tercera3{
+position: absolute;
+width: 276px;
+height: 410px;
+left: 732px;
+top: 128px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 2px rgba(23, 26, 31, 0.12), 0px 0px 1px rgba(23, 26, 31, 0.07);
+border-radius: 8px;
+}
+
+/* Glamour Necklace */
+.tercera3 h1{
+position: absolute;
+width: 178px;
+height: 36px;
+left: 12px;
+bottom: 42px;
+top: 332px;
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height, or 150% */
+
+color: #171A1F;
+}
+
+
+/* $620.73 */
+.tercera3 p {
+position: absolute;
+width: 60px;
+height: 26px;
+left: 12px;
+bottom: 18px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+color: #171A1F;
+}
+
+
+/* Image 5 */
+.tercera3 img {
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 90px;
+border-top-right-radius: 8px;
+border-top-left-radius: 8px;
+background: url(.jpg);
+}
+
+/* Container 5 */
+.tercera4 {
+position: absolute;
+width: 276px;
+height: 410px;
+left: 1032px;
+top: 128px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 2px rgba(23, 26, 31, 0.12), 0px 0px 1px rgba(23, 26, 31, 0.07);
+border-radius: 8px;
+}
+
+/* Delights Earrings */
+.tercera4 h1{
+position: absolute;
+width: 164px;
+height: 36px;
+left: 12px;
+bottom: 42px;
+top: 332px;
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height, or 150% */
+
+color: #171A1F;
+}
+
+
+/* $327.71 */
+.tercera4 p{
+position: absolute;
+width: 53px;
+height: 26px;
+left: 12px;
+bottom: 18px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+color: #171A1F;
+}
+
+
+/* Image 5 */
+.tercera4 img{
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 90px;
+border-top-right-radius: 8px;
+border-top-left-radius: 8px;
+background: url(.jpg);
+}
+
+/* Container 5 */
+.tercera5 {
+position: absolute;
+width: 276px;
+height: 410px;
+left: 1344px;
+top: 128px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 2px rgba(23, 26, 31, 0.12), 0px 0px 1px rgba(23, 26, 31, 0.07);
+border-radius: 8px;
+}
+
+/* Dreamy Necklace */
+.tercera5 h1{
+position: absolute;
+width: 167px;
+height: 36px;
+left: 12px;
+bottom: 42px;
+top: 332px;
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height, or 150% */
+
+color: #171A1F;
+}
+
+
+/* $327.71 */
+.tercera5 p {
+position: absolute;
+width: 54px;
+height: 26px;
+left: 12px;
+bottom: 18px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+color: #171A1F;
+}
+
+
+/* Image 5 */
+.tercera5 img{
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 90px;
+border-top-right-radius: 8px;
+border-top-left-radius: 8px;
+background: url(.jpg);
+}
+
+
+
+
+
 
 
 
