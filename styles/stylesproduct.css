@@ -113,8 +113,105 @@ flex-shrink: 0;
 top: 265px;
 }
 
+/* Textbox 2 */
+.menu-desplegable {
+position: absolute;
+width: 138px;
+height: 36px;
+left: calc(50% - 138px/2 + 519px);
+top: 522px;
+border-radius: 4px 4px 0px 0px;
 
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 22px;
+/* identical to box height, or 157% */
 
+color: #171A1F;
+}
+.menu-desplegable:hover{
+    cursor: pointer;
+    font-weight: 900;
+    
+}
+.menu-desplegable{
+    text-decoration-line: underline;
+}
+
+.navboton {
+    display: flex;
+    width: 878px;
+    height: 38px;
+    justify-content: center;
+    padding-top: 72px;
+    padding-left: 132px;
+}
+.all{
+    color: #0D554A;
+    font-size: 14px;
+    font-weight: 400px;
+    font-family: 'Manrope';
+    padding: 8px 68px;
+    border-radius: 19px;
+    margin: 5px;
+    text-decoration: none;
+    line-height: 22px; 
+}
+.rings{
+    color: #0D554A;
+    font-size: 14px;
+    font-weight: 400px;
+    font-family: 'Manrope';
+    padding: 8px 58px;
+    border-radius: 19px;
+    margin: 5px;
+    text-decoration: none;
+    line-height: 22px; 
+}
+.bracelets{
+    color: #0D554A;
+    font-size: 14px;
+    font-weight: 400px;
+    font-family: 'Manrope';
+    padding: 8px 43.3px;
+    border-radius: 19px;
+    margin: 5px;
+    text-decoration: none;
+    line-height: 22px; 
+}
+.necklaces{
+    color: #0D554A;
+    font-size: 14px;
+    font-weight: 400px;
+    font-family: 'Manrope';
+    padding: 8px 40.8px;
+    border-radius: 19px;
+    margin: 5px;
+    text-decoration: none;
+    line-height: 22px; 
+}
+.earrings{
+    color: #0D554A;
+    font-size: 14px;
+    font-weight: 400px;
+    font-family: 'Manrope';
+    padding: 8px 47.3px;
+    border-radius: 19px;
+    margin: 5px;
+    text-decoration: none;
+    line-height: 22px; 
+}
+.navboton ul a:hover{
+    color: #FFFFFF;
+    background-color: #0D554A;
+}
+.navboton ul a.all{
+    color: #FFFFFF;
+    background-color: #0D554A;
+    padding: 8px 68px;
+}
 /* Container 2 */
 .primera1{
 position: absolute;
@@ -929,6 +1026,14 @@ bottom: 84px;
 border-top-right-radius: 8px;
 border-top-left-radius: 8px;
 }
+
+.nav-numeros {
+padding-top: 1800px;
+padding-left: 546px;
+margin: 8px;
+}
+
+
 
 /* Container 2 */
 .segunda{
