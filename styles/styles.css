@@ -18,7 +18,7 @@ background: #093931;
     right: 0px;
     top: 0px;
     background: #093931;
-    background-image: url(./assets/vector\ fondo.png);
+    background-image: url(/assets/vector\ fondo.png);
     background-size: cover;
     background-repeat: no-repeat;
     }
@@ -42,7 +42,7 @@ color: #F5D38E;
 position: absolute;
 width: 431px;
 height: 43px;
-right: 218px;
+right: 205px;
 
 border-radius: 4px;
 }
@@ -55,13 +55,27 @@ font-weight: 400;
 font-size: 14px;
 line-height: 22px;
 /* identical to box height, or 157% */
-
 color: #FFFFFF;
 
 }
 
+.encabezado a:hover{
+    color: #F2C66D;
+}
+/* Rectangle */
+.rectangle{
+position: absolute;
+width: 70px;
+height: 4px;
+top: 39px;
+border-radius: 2px;
+left: 795px;
 
-.encabezado img{
+}
+.encabezado a.home {
+    color: #F2C66D;
+}
+.carrito, .muñeco{
 width: 20px;
 height: 20px;
 padding-left: 10px;

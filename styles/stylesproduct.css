@@ -56,8 +56,23 @@ line-height: 22px;
 color: #FFFFFF;
 
 }
+.encabezado a:hover{
+    color: #F2C66D;
+}
+/* Rectangle */
+.rectangle{
+position: absolute;
+width: 70px;
+height: 4px;
+top: 39px;
+border-radius: 2px;
+left: 845px;
 
-.encabezado img{
+}
+.encabezado a.shop {
+    color: #F2C66D;
+}
+.carrito, .muñeco{
 width: 20px;
 height: 20px;
 padding-left: 10px;

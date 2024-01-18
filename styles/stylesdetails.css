@@ -60,13 +60,340 @@
     }
 
 
+    /* Container 5 */
+.pagina{
+position: absolute;
+height: 826px;
+left: 0px;
+right: 0px;
+top: 62px;
+
+background: #FFFFFF;
+border-radius: 4px;
+}
+
+.homeetiqueta{
+
+position: absolute;
+width: 34px;
+height: 22px;
+left: calc(50% - 34px/2 - 571px);
+top: 72px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 22px;
+/* identical to box height, or 157% */
+
+color: #0D554A;
+}
+
+.arrow1{
+    /* Arrow forward ios 1 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: calc(50% - 16px/2 - 529px);
+top: 75px;
+
+}
+
+.shopetiqueta {
+    /* Shop */
+
+position: absolute;
+width: 28px;
+height: 22px;
+left: calc(50% - 28px/2 - 495px);
+top: 72px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 22px;
+/* identical to box height, or 157% */
+
+color: #0D554A;
 
 
+}
+
+.arrow2{
+    /* Arrow forward ios 1 */
+
+position: absolute;
+width: 16px;
+height: 16px;
+left: calc(50% - 16px/2 - 457px);
+top: 75px;
+
+}
+
+.luxuryetiqueta{
+    /* Luxury Charms */
+
+position: absolute;
+width: 85px;
+height: 22px;
+left: calc(50% - 85px/2 - 394.5px);
+top: 72px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 22px;
+/* identical to box height, or 157% */
+
+color: #0D554A;
 
 
+}
+.luxury1{
+    /* Image 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 64px;
+height: 82px;
+left: calc(50% - 64px/2 - 556px);
+top: 118px;
+
+background: url(.jpg);
+border: 1px solid #0D554A;
+border-radius: 4px;
+
+}
+.luxury2{
+    /* Image 5 */
+
+position: absolute;
+width: 64px;
+height: 82px;
+left: calc(50% - 64px/2 - 556px);
+top: 212px;
+
+background: url(.jpg);
+border-radius: 4px;
+
+}
+
+.luxury3{
+/* Image 5 */
+
+position: absolute;
+width: 64px;
+height: 82px;
+left: calc(50% - 64px/2 - 556px);
+top: 306px;
+
+background: url(.jpg);
+border-radius: 4px;
 
 
+}
 
+.luxury4{
+    /* Image 5 */
+
+position: absolute;
+width: 78px;
+height: 92px;
+left: calc(50% - 67px/2 - 561px);
+top: 400px;
+
+background: url(.jpg);
+
+
+}
+
+.luxury5{
+    /* Image 5 */
+
+position: absolute;
+width: 477px;
+height: 636px;
+left: calc(50% - 477px/2 - 275.5px);
+top: 118px;
+
+background: url(.jpg);
+border-radius: 8px;
+
+}
+
+.corazon{
+    /* Vector */
+
+position: absolute;
+width: 24px;
+height: 24px;
+top: 134px;
+left: 680px;
+}
+
+.luxurycharms{
+    /* Luxury Charms Ring */
+
+position: absolute;
+width: 332px;
+height: 56px;
+left: calc(50% - 332px/2 + 177px);
+top: 118px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 56px;
+/* identical to box height, or 140% */
+
+color: #0D554A;
+}
+
+.code{
+    /* Code: 78205 */
+
+position: absolute;
+width: 94px;
+height: 26px;
+left: calc(50% - 94px/2 + 58px);
+top: 174px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+color: #323842;
+}
+
+.precio{
+    /* $620.73 */
+
+position: absolute;
+width: 154px;
+height: 56px;
+left: calc(50% - 154px/2 + 88px);
+top: 212px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 56px;
+/* identical to box height, or 140% */
+
+color: #B37D10;
+}
+
+.colorrosegold{
+    /* Color - Rose Gold */
+
+position: absolute;
+width: 134px;
+height: 26px;
+left: calc(50% - 134px/2 + 78px);
+top: 280px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+color: #424955;
+}
+.size{
+    /* Size - 48 */
+
+position: absolute;
+width: 66px;
+height: 26px;
+left: calc(50% - 66px/2 + 44px);
+top: 358px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+color: #424955;
+
+}
+.oval{
+/* Oval 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: calc(50% - 36px/2 + 29px);
+top: 310px;
+
+}
+.ovalrosa{
+    /* Oval 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 36px;
+height: 36px;
+left: calc(50% - 36px/2 + 81px);
+top: 310px;
+
+}
+
+.whatis{
+    /* What is my size? */
+
+position: absolute;
+width: 93px;
+height: 20px;
+left: calc(50% - 93px/2 + 520.5px);
+top: 358px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 500;
+font-size: 12px;
+line-height: 20px;
+/* identical to box height, or 167% */
+text-align: right;
+text-decoration-line: underline;
+
+color: #424955;
+}
+
+.quantity{
+    /* Quantity */
+
+position: absolute;
+width: 69px;
+height: 26px;
+left: calc(50% - 69px/2 + 45.5px);
+top: 436px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+color: #424955;
+}
 /* Container 5 */
 .primera{
 position: absolute;
