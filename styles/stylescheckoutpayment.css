@@ -59,16 +59,549 @@
     padding-left: 10px;
     }
 
+/* Image 8 */
+.parte1 img{
+    
+position: absolute;
+width: 295px;
+height: 295px;
+left: calc(50% - 295px/2 + 0.5px);
+top: 116px;
+
+background: url(.jpg);
+border-radius: 148px;
+}
+
+/* Thank you for your purchase! */
+.parte1 h1{
+position: absolute;
+width: 371px;
+height: 48px;
+left: calc(50% - 371px/2 - 1.5px);
+top: 435px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 48px;
+/* identical to box height, or 150% */
+text-align: center;
+
+color: #171A1F;
+}
+
+/* You will receive an confirmation letter through your email */
+.parte1 p{
+position: absolute;
+width: 363px;
+height: 22px;
+left: calc(50% - 363px/2 - 1.5px);
+top: 495px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 22px;
+/* identical to box height, or 157% */
+
+color: #9095A0;
+}
+
+/* Container 8 */
+.datos{
+position: absolute;
+width: 560px;
+height: 651px;
+left: calc(50% - 560px/2);
+top: 565px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 2px rgba(23, 26, 31, 0.12), 0px 0px 1px rgba(23, 26, 31, 0.07);
+border-radius: 4px;
+}
+
+/* Button 8 */
+.datos button{
+position: absolute;
+width: 173px;
+height: 44px;
+left: calc(50% - 173px/2 - 0.5px);
+bottom: 24px;
+
+background: #0D554A;
+border-radius: 22px;
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+color: #FFFFFF;
+}
 
 
+/* Order Line */
+.orderline{
+position: absolute;
+width: 67px;
+height: 22px;
+left: 24px;
+top: 312px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 22px;
+/* identical to box height, or 157% */
+
+color: #171A1F;
+}
 
 
+/* Line 3 */
+.lineadivisora1{
+position: absolute;
+width: 512px;
+height: 0px;
+left: 24px;
+top: 291px;
+
+border: 1px solid #DEE1E6;
+}
+
+/* 586789963 */
+.numeroorden{
+position: absolute;
+width: 74px;
+height: 22px;
+right: 24px;
+top: 189px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 22px;
+/* identical to box height, or 157% */
+text-align: right;
+
+color: #171A1F;
+}
 
 
+/* Order Number */
+.ordernumber{
+position: absolute;
+width: 104px;
+height: 26px;
+left: 60px;
+top: 189px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+color: #9095A0;
+}
 
 
+/* $1058.72 */
+.preciototal{
+position: absolute;
+width: 58px;
+height: 22px;
+right: 24px;
+top: 235px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 22px;
+/* identical to box height, or 157% */
+text-align: right;
+
+color: #171A1F;
+}
 
 
+/* Line 3 */
+.lineadivisora2{
+position: absolute;
+width: 512px;
+height: 0px;
+left: 24px;
+top: 168px;
+
+border: 1px solid #DEE1E6;
+}
+
+/* Payment Method */
+.Payment{
+position: absolute;
+width: 126px;
+height: 26px;
+left: 60px;
+top: 119px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+color: #9095A0;
+}
+
+
+/* Customer */
+.customer{
+position: absolute;
+width: 74px;
+height: 26px;
+left: 60px;
+top: 70px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+color: #9095A0;
+}
+
+
+/* John Miller */
+.nombre{
+position: absolute;
+width: 73px;
+height: 26px;
+right: 24px;
+top: 70px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+text-align: right;
+
+color: #171A1F;
+}
+
+/* 27/04/2022 */
+.fecha{
+position: absolute;
+width: 76px;
+height: 22px;
+right: 24px;
+top: 24px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 22px;
+/* identical to box height, or 157% */
+text-align: right;
+
+color: #171A1F;
+}
+
+
+/* Receipt list 43 1 */
+.recibo{
+position: absolute;
+width: 24px;
+height: 24px;
+left: 24px;
+top: 190px;
+}
+
+/* Profile 8 */
+.perfil{
+position: absolute;
+width: 24px;
+height: 24px;
+left: 24px;
+top: 71px;
+}
+
+/* Money 13 1 */
+.billete{
+position: absolute;
+width: 24px;
+height: 24px;
+left: 24px;
+top: 120px;
+}
+
+
+/* Date */
+.date{
+position: absolute;
+width: 36px;
+height: 26px;
+left: 60px;
+top: 24px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+color: #9095A0;
+}
+
+
+/* Calendar date 1 */
+.calendario{
+position: absolute;
+width: 24px;
+height: 24px;
+left: 24px;
+top: 25px;
+}
+
+/* Total */
+.total{
+position: absolute;
+width: 37px;
+height: 26px;
+left: 60px;
+top: 240px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+color: #9095A0;
+}
+
+/* Currency dollar 1 */
+.moneda{
+position: absolute;
+width: 24px;
+height: 24px;
+left: 24px;
+top: 241px;
+}
+
+/* Image 8 */
+.visa{
+position: absolute;
+width: 46px;
+height: 32px;
+right: 24px;
+top: 116px;
+}
+
+/* Container 8 */
+.containeranillo{
+position: absolute;
+height: 94px;
+left: 24px;
+right: 24px;
+top: 355px;
+
+background: #FFFFFF;
+border-radius: 4px;
+}
+
+/* Image 8 */
+.anillo{
+position: absolute;
+width: 94px;
+left: 0px;
+top: 0px;
+bottom: 0px;
+
+background: url(.jpg);
+border-radius: 6px;
+}
+
+/* $620.73 */
+.anilloprecio{
+position: absolute;
+width: 54px;
+height: 22px;
+right: 12px;
+top: calc(50% - 22px/2);
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 22px;
+/* identical to box height, or 157% */
+text-align: right;
+
+color: #171A1F;
+}
+
+
+/* Code: 78205 */
+.anillocodigo{
+position: absolute;
+width: 65px;
+height: 18px;
+left: 110px;
+top: calc(50% - 18px/2 - 4px);
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 18px;
+/* identical to box height, or 164% */
+
+color: #9095A0;
+}
+
+
+/* Luxury Charms Ring */
+.anillonombre{
+position: absolute;
+width: 133px;
+height: 26px;
+left: 110px;
+top: calc(50% - 26px/2 - 24px);
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+color: #323842;
+}
+
+
+/* Tag 4 */
+.anillocantidad{
+position: absolute;
+width: 32px;
+height: 28px;
+left: 110px;
+top: 56px;
+}
+
+/* Container 8 */
+.containerarete{
+position: absolute;
+height: 94px;
+left: 24px;
+right: 24px;
+top: 465px;
+
+background: #FFFFFF;
+border-radius: 4px;
+}
+
+/* Image 8 */
+.arete{
+position: absolute;
+width: 94px;
+left: 0px;
+top: 0px;
+bottom: 0px;
+
+background: url(.jpg);
+border-radius: 6px;
+}
+
+/* $125.28 */
+.areteprecio{
+position: absolute;
+width: 52px;
+height: 22px;
+right: 12px;
+top: calc(50% - 22px/2);
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 22px;
+/* identical to box height, or 157% */
+text-align: right;
+
+color: #171A1F;
+}
+
+
+/* Code: 92701 */
+.aretecodigo{
+position: absolute;
+width: 63px;
+height: 18px;
+left: 110px;
+top: calc(50% - 18px/2 - 4px);
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 18px;
+/* identical to box height, or 164% */
+
+color: #9095A0;
+}
+
+
+/* Exquisite Earrings */
+.aretenombre{
+position: absolute;
+width: 115px;
+height: 26px;
+left: 110px;
+top: calc(50% - 26px/2 - 24px);
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+color: #323842;
+}
+
+
+/* Tag 4 */
+.aretecantidad{
+position: absolute;
+width: 32px;
+height: 28px;
+left: 110px;
+top: 56px;
+}
+
+/* Rectangle 1 */
+.desplaso{
+position: absolute;
+width: 4px;
+height: 132px;
+top: 360px;
+left: 541px;
+}
 
 
 

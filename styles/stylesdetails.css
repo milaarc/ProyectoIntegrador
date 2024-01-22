@@ -375,6 +375,15 @@ text-decoration-line: underline;
 
 color: #424955;
 }
+/* Tag 1 */
+.tag1{
+position: absolute;
+width: 556px;
+height: 36px;
+left: calc(50% - 556px/2 + 289px);
+top: 388px;
+}
+
 
 .quantity{
     /* Quantity */
@@ -394,6 +403,333 @@ line-height: 26px;
 
 color: #424955;
 }
+
+/* Button 5 */
+.menos{
+position: absolute;
+width: 39px;
+height: 44px;
+left: calc(50% - 39px/2 + 30.5px);
+top: 466px;
+
+background: #F3F4F6;
+border-radius: 4px;
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+color: #565E6C;
+}
+
+/* Textbox 5 */
+.uno{
+position: absolute;
+width: 38px;
+height: 43px;
+left: calc(50% - 38px/2 + 85px);
+top: 466px;
+
+background: #F3F4F6;
+border-radius: 4px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+color: #171A1F;
+}
+
+.mas{
+    /* Button 5 */
+
+position: absolute;
+width: 41px;
+height: 44px;
+left: calc(50% - 41px/2 + 141.5px);
+top: 466px;
+
+background: #F3F4F6;
+border-radius: 4px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+color: #565E6C;
+
+
+}
+
+
+/* Button 5 */
+.add{
+box-sizing: border-box;
+
+position: absolute;
+width: 266px;
+height: 52px;
+left: calc(50% - 266px/2 + 144px);
+top: 534px;
+
+background: #FFFFFF;
+border: 1px solid #0D554A;
+border-radius: 26px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+color: #0D554A;
+}
+
+
+/* Add shopping cart */
+.addcart{
+position: absolute;
+width: 24px;
+height: 24px;
+left: 830px;
+top: 548px;
+}
+
+/* Button 5 */
+.buy{
+position: absolute;
+width: 266px;
+height: 52px;
+left: calc(50% - 266px/2 + 434px);
+top: 534px;
+
+background: #0D554A;
+border-radius: 26px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+color: #FFFFFF;
+}
+
+/* Textbox 5 */
+.menu-desplegable1{
+position: absolute;
+width: 266px;
+height: 44px;
+left: calc(50% - 266px/2 + 144px);
+top: 610px;
+
+border-radius: 4px 4px 0px 0px;
+}
+
+/* Vector */
+.vectordelivery{
+position: absolute;
+width: 266px;
+top: 44px;
+border: 1px;
+
+}
+
+/* Delivery */
+.deliverymenu{
+position: absolute;
+height: 26px;
+left: 0px;
+right: 207px;
+top: calc(50% - 26px/2);
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+color: #171A1F;
+}
+
+
+/* Chevron down large */
+.chevron{
+position: absolute;
+width: 20px;
+height: 20px;
+right: 0px;
+top: calc(50% - 20px/2);
+}
+
+/* Textbox 5 */
+.menu-desplegable2{
+position: absolute;
+width: 266px;
+height: 44px;
+left: calc(50% - 266px/2 + 434px);
+top: 610px;
+
+border-radius: 4px 4px 0px 0px;
+}
+
+/* Vector */
+.vectorp{
+position: absolute;
+width: 266px;
+top: 44px;
+border: 1px;
+}
+
+/* Payment */
+.paymentmenu{
+position: absolute;
+height: 26px;
+left: 0px;
+right: 201px;
+top: calc(50% - 26px/2);
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+color: #171A1F;
+}
+
+
+/* Chevron down large */
+.chevron2{
+position: absolute;
+width: 20px;
+height: 20px;
+right: 0px;
+top: calc(50% - 20px/2);
+}
+
+
+/* Textbox 5 */
+.menu-desplegable3{
+position: absolute;
+width: 266px;
+height: 44px;
+left: calc(50% - 266px/2 + 144px);
+top: 666px;
+
+border-radius: 4px 4px 0px 0px;
+}
+
+/* Vector */
+.vectordelivery3{
+position: absolute;
+width: 266px;
+top: 44px;
+border: 1px;
+}
+
+/* Warranty */
+.warrantymenu{
+position: absolute;
+height: 26px;
+left: 0px;
+right: 198px;
+top: calc(50% - 26px/2);
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+color: #171A1F;
+}
+
+
+/* Chevron down large */
+.chevron3{
+position: absolute;
+width: 20px;
+height: 20px;
+right: 0px;
+top: calc(50% - 20px/2);
+}
+
+
+/* Textbox 5 */
+.menu-desplegable4{
+position: absolute;
+width: 266px;
+height: 44px;
+left: calc(50% - 266px/2 + 434px);
+top: 666px;
+
+border-radius: 4px 4px 0px 0px;
+}
+
+/* Vector */
+.vectordelivery4 {
+position: absolute;
+width: 266px;
+top: 44px;
+border: 1px;
+}
+
+/* Care */
+.caremenu{
+position: absolute;
+height: 26px;
+left: 0px;
+right: 230px;
+top: calc(50% - 26px/2);
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+color: #171A1F;
+}
+
+
+/* Chevron down large */
+.chevron4{
+position: absolute;
+width: 20px;
+height: 20px;
+right: 0px;
+top: calc(50% - 20px/2);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* Container 5 */
 .primera{
 position: absolute;

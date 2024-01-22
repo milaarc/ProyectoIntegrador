@@ -59,13 +59,1211 @@
     padding-left: 10px;
     }
 
+/* Container 7 */
+.ladoizquierdo{
+position: absolute;
+width: 800px;
+height: 498px;
+left: 132px;
+top: 108px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 2px rgba(23, 26, 31, 0.12), 0px 0px 1px rgba(23, 26, 31, 0.07);
+border-radius: 4px;
+}
+
+/* Order summary */
+.ordersummary {
+position: absolute;
+width: 152px;
+height: 36px;
+left: 24px;
+top: 24px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height, or 150% */
+
+color: #171A1F;
+}
+
+
+/* Table 1 */
+.conjunto{
+position: absolute;
+width: 752.02px;
+height: 417.99px;
+left: 24px;
+top: 56px;
+
+border: 1px solid #FFFFFF;
+}
+
+/* Row */
+.primero{
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 66.67%;
+}
+/* Frame */
+.primero1{
+position: absolute;
+left: 0%;
+right: 79.37%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+}
+/* Image */
+.anillo{
+position: absolute;
+width: 120px;
+height: 120px;
+left: 0px;
+top: calc(50% - 120px/2 + 0px);
+
+background: url(.jpg);
+border-radius: 4px;
+}
+/* Frame */
+.primero2{
+position: absolute;
+left: 20.63%;
+right: 46.38%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+}
+
+/* Code: 78205 */
+.anillocodigo{
+position: absolute;
+width: 214.13px;
+height: 20px;
+left: 16px;
+top: calc(50% - 20px/2 + 12px);
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 20px;
+/* identical to box height, or 167% */
+
+color: #565E6C;
+}
+
+
+/* Luxury Charms Ring */
+.anillonombre{
+position: absolute;
+width: 214.13px;
+height: 22px;
+left: 16px;
+top: calc(50% - 22px/2 - 11px);
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 22px;
+/* identical to box height, or 157% */
+
+color: #171A1F;
+}
+
+/* Frame */
+.primero3{
+position: absolute;
+left: 53.62%;
+right: 15.94%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+}
+
+/* $620.73 */
+.anilloprecio{
+position: absolute;
+width: 196.88px;
+height: 22px;
+left: calc(50% - 196.88px/2 - 0.06px);
+top: calc(50% - 22px/2 + 0px);
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 22px;
+/* identical to box height, or 157% */
+text-align: center;
+
+color: #171A1F;
+}
+
+/* Frame */
+.primero4{
+position: absolute;
+left: 84.06%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+}
+
+/* create */
+.anillobasura{
+position: absolute;
+width: 24px;
+height: 24px;
+left: calc(50% - 24px/2 + 0px);
+top: calc(50% - 24px/2 + 0px);
+}
+
+/* Row */
+.segundo{
+position: absolute;
+left: 0%;
+right: 0%;
+top: 33.33%;
+bottom: 33.33%;
+}
+
+
+/* Frame */
+.segundo3{
+position: absolute;
+left: 53.62%;
+right: 15.94%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+}
+
+/* $125.28 */
+.areteprecio{
+position: absolute;
+width: 196.88px;
+height: 22px;
+left: calc(50% - 196.88px/2 - 0.06px);
+top: calc(50% - 22px/2 + 0px);
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 22px;
+/* identical to box height, or 157% */
+text-align: center;
+
+color: #171A1F;
+}
+
+
+/* Frame */
+.segundo2{
+position: absolute;
+left: 20.63%;
+right: 46.38%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+}
+
+/* Exquisite Earrings */
+.aretenombre{
+position: absolute;
+width: 214.13px;
+height: 22px;
+left: 16px;
+top: calc(50% - 22px/2 - 11px);
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 22px;
+/* identical to box height, or 157% */
+
+color: #171A1F;
+}
+
+
+/* Code: 92701 */
+.aretecodigo{
+position: absolute;
+width: 214.13px;
+height: 20px;
+left: 16px;
+top: calc(50% - 20px/2 + 12px);
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 20px;
+/* identical to box height, or 167% */
+
+color: #565E6C;
+}
+
+
+/* Frame */
+.segundo4{
+position: absolute;
+left: 84.06%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+}
+
+/* create */
+.aretebasura{
+position: absolute;
+width: 24px;
+height: 24px;
+left: calc(50% - 24px/2 + 0px);
+top: calc(50% - 24px/2 + 0px);
+}
+
+
+/* Frame */
+.segundo1{
+position: absolute;
+left: 0%;
+right: 79.37%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+}
+
+/* Image */
+.arete{
+position: absolute;
+width: 120px;
+height: 120px;
+left: 0px;
+top: calc(50% - 120px/2 + 0px);
+
+background: url(.jpg);
+border-radius: 4px;
+}
+
+/* Row */
+.tercero{
+position: absolute;
+left: 0%;
+right: 0%;
+top: 66.67%;
+bottom: 0%;
+}
+
+
+/* Frame */
+.tercero2{
+position: absolute;
+left: 20.63%;
+right: 46.38%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+}
+
+/* Code: 78201 */
+.arete2codigo{
+position: absolute;
+width: 214.13px;
+height: 20px;
+left: 16px;
+top: calc(50% - 20px/2 + 12px);
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 20px;
+/* identical to box height, or 167% */
+
+color: #565E6C;
+}
+
+/* Delights Earrings */
+.arete2nombre{
+position: absolute;
+width: 214.13px;
+height: 22px;
+left: 16px;
+top: calc(50% - 22px/2 - 11px);
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 22px;
+/* identical to box height, or 157% */
+
+color: #171A1F;
+}
+
+
+/* Frame */
+.tercero4{
+position: absolute;
+left: 84.06%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+}
+
+/* create */
+.arete2basura{
+position: absolute;
+width: 24px;
+height: 24px;
+left: calc(50% - 24px/2 + 0px);
+top: calc(50% - 24px/2 + 0px);
+}
 
 
 
+/* Frame */
+.tercero3{
+position: absolute;
+left: 53.62%;
+right: 15.94%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+}
+
+/* $327.71 */
+.arete2precio{
+position: absolute;
+width: 196.88px;
+height: 22px;
+left: calc(50% - 196.88px/2 - 0.06px);
+top: calc(50% - 22px/2 + 0px);
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 22px;
+/* identical to box height, or 157% */
+text-align: center;
+
+color: #171A1F;
+}
+
+
+/* Frame */
+.tercero1{
+position: absolute;
+left: 0%;
+right: 79.37%;
+top: 0%;
+bottom: 0%;
+
+background: #FFFFFF;
+}
+
+/* Image */
+.arete2{
+position: absolute;
+width: 120px;
+height: 120px;
+left: 0px;
+top: calc(50% - 120px/2 + 0px);
+
+background: url(.jpg);
+border-radius: 4px;
+}
+
+/* Container 7 */
+.partederecha{
+position: absolute;
+width: 348px;
+height: 583px;
+left: 960px;
+top: 108px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 2px rgba(23, 26, 31, 0.12), 0px 0px 1px rgba(23, 26, 31, 0.07);
+border-radius: 4px;
+}
+
+/* Payment method */
+.payment{
+position: absolute;
+width: 161px;
+height: 36px;
+left: 24px;
+top: 24px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height, or 150% */
+
+color: #171A1F;
+}
+
+
+/* Container 7 */
+.containermastercard{
+box-sizing: border-box;
+
+position: absolute;
+width: 300px;
+height: 60px;
+left: 24px;
+top: 96px;
+
+}
 
 
 
+/* Voucher */
+.voucher{
+position: absolute;
+width: 60px;
+height: 28px;
+left: 24px;
+top: 188px;
 
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+color: #171A1F;
+}
+
+
+/* Textbox 7 */
+.partederecha input{
+position: absolute;
+width: 220px;
+height: 35px;
+left: 24px;
+top: 224px;
+
+background: #FFFFFF;
+border: 1px solid #9095A0;
+border-radius: 4px;
+}
+
+/* $15 OFF */
+/* .descuento15{
+position: absolute;
+height: 22px;
+left: 12px;
+right: 159px;
+top: calc(50% - 22px/2 + 0.5px);
+} */
+
+
+
+/* Button 7 */
+.apply{
+position: absolute;
+width: 73px;
+height: 36px;
+left: 251px;
+top: 224px;
+
+background: #F2C66D;
+border-radius: 4px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 22px;
+/* identical to box height, or 157% */
+
+color: #6B4A09;
+}
+
+
+/* Summary */
+.summary{
+position: absolute;
+width: 69px;
+height: 28px;
+left: 24px;
+top: 328px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+
+color: #171A1F;
+}
+
+
+/* $1073.72 */
+.precio{
+position: absolute;
+width: 60px;
+height: 22px;
+left: 261px;
+top: 364px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 22px;
+/* identical to box height, or 157% */
+text-align: right;
+
+color: #171A1F;
+}
+
+
+/* Subtotal */
+.subtotal{
+position: absolute;
+width: 48px;
+height: 20px;
+left: 24px;
+top: 365px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 20px;
+/* identical to box height, or 167% */
+
+color: #171A1F;
+}
+
+
+/* -$15 */
+.descuento{
+position: absolute;
+width: 30px;
+height: 22px;
+left: 292px;
+top: 392px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 22px;
+/* identical to box height, or 157% */
+text-align: right;
+
+color: #171A1F;
+}
+
+
+/* Discount */
+.discount{
+position: absolute;
+width: 50px;
+height: 20px;
+left: 24px;
+top: 393px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 20px;
+/* identical to box height, or 167% */
+
+color: #171A1F;
+}
+
+
+/* $0 */
+.cero{
+position: absolute;
+width: 19px;
+height: 22px;
+left: 305px;
+top: 420px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 22px;
+/* identical to box height, or 157% */
+text-align: right;
+
+color: #171A1F;
+}
+
+
+/* Fee */
+.fee{
+position: absolute;
+width: 20px;
+height: 20px;
+left: 24px;
+top: 421px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 20px;
+/* identical to box height, or 167% */
+
+color: #171A1F;
+}
+
+
+/* Total */
+.total{
+position: absolute;
+width: 28px;
+height: 20px;
+left: 24px;
+top: 471px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 20px;
+/* identical to box height, or 167% */
+
+color: #171A1F;
+}
+
+
+/* $1058.72 */
+.preciototal{
+position: absolute;
+width: 79px;
+height: 28px;
+left: 242px;
+top: 467px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 28px;
+/* identical to box height, or 156% */
+text-align: right;
+
+color: #E8502E;
+}
+
+
+/* Button 7 */
+.proceed{
+position: absolute;
+width: 300px;
+height: 44px;
+left: 24px;
+top: 515px;
+
+background: #0D554A;
+border-radius: 22px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+color: #FFFFFF;
+}
+
+
+/* Line 2 */
+.lineadivisora{
+position: absolute;
+width: 300px;
+height: 0px;
+left: 24px;
+top: 454px;
+
+border: 1px solid #F3F4F6;
+}
+
+/* Tag 3 */
+.descuento15{
+position: absolute;
+width: 55px;
+height: 28px;
+left: 24px;
+top: 268px;
+}
+
+
+/* Change payment methods */
+.change{
+position: absolute;
+width: 147px;
+height: 20px;
+left: 24px;
+top: 68px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 2px;
+/* or 14% */
+text-decoration: none;
+color: #379AE6;
+}
+
+/* Container 7 */
+.abajo{
+position: absolute;
+height: 586px;
+left: 0px;
+right: 0px;
+top: 713px;
+
+background: #FFFFFF;
+}
+
+/* You may also like */
+.youmay{
+position: absolute;
+width: 270px;
+height: 56px;
+left: 132px;
+top: 48px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 56px;
+/* identical to box height, or 140% */
+
+color: #0D554A;
+}
+
+
+/* Container 7 */
+.abajo6{
+position: absolute;
+width: 276px;
+height: 410px;
+left: 1632px;
+top: 128px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 2px rgba(23, 26, 31, 0.12), 0px 0px 1px rgba(23, 26, 31, 0.07);
+border-radius: 8px;
+}
+
+/* Luxe Gems */
+.luxen{
+position: absolute;
+width: 106px;
+height: 36px;
+left: 12px;
+bottom: 42px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height, or 150% */
+
+color: #171A1F;
+}
+
+
+/* $264.22 */
+.luxep{
+position: absolute;
+width: 60px;
+height: 26px;
+left: 12px;
+bottom: 18px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+color: #9095A0;
+}
+
+
+/* Image 7 */
+.luxe{
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 90px;
+
+background: #D9D9D9;
+}
+
+/* Container 7 */
+.abajo1{
+position: absolute;
+width: 276px;
+height: 410px;
+left: 132px;
+top: 128px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 2px rgba(23, 26, 31, 0.12), 0px 0px 1px rgba(23, 26, 31, 0.07);
+border-radius: 8px;
+}
+
+/* Shimmering Stones */
+.shimmeringn{
+position: absolute;
+width: 186px;
+height: 36px;
+left: 12px;
+bottom: 42px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height, or 150% */
+
+color: #171A1F;
+}
+
+
+/* $168.76 */
+.shimmeringp{
+position: absolute;
+width: 57px;
+height: 26px;
+left: 12px;
+bottom: 18px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+color: #171A1F;
+}
+
+
+/* Image 7 */
+.shimmering{
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 90px;
+
+background: url(.jpg);
+}
+
+/* Container 7 */
+.abajo2{
+position: absolute;
+width: 276px;
+height: 410px;
+left: 432px;
+top: 128px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 2px rgba(23, 26, 31, 0.12), 0px 0px 1px rgba(23, 26, 31, 0.07);
+border-radius: 8px;
+}
+
+/* Exquisite Ornaments */
+.exquisiten{
+position: absolute;
+width: 201px;
+height: 36px;
+left: 12px;
+bottom: 42px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height, or 150% */
+
+color: #171A1F;
+}
+
+
+/* $125.28 */
+.exquisitep{
+position: absolute;
+width: 57px;
+height: 26px;
+left: 12px;
+bottom: 18px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+color: #171A1F;
+}
+
+
+/* Image 7 */
+.exquisite{
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 90px;
+
+background: url(.jpg);
+}
+
+/* Container 7 */
+.abajo3{
+position: absolute;
+width: 276px;
+height: 410px;
+left: 732px;
+top: 128px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 2px rgba(23, 26, 31, 0.12), 0px 0px 1px rgba(23, 26, 31, 0.07);
+border-radius: 8px;
+}
+
+/* Elegance and Grace */
+.elegancen{
+position: absolute;
+width: 186px;
+height: 36px;
+left: 12px;
+bottom: 42px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height, or 150% */
+
+color: #171A1F;
+}
+
+
+/* $620.73 */
+.elegancep{
+position: absolute;
+width: 60px;
+height: 26px;
+left: 12px;
+bottom: 18px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+color: #171A1F;
+}
+
+
+/* Image 7 */
+.elegance{
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 90px;
+
+background: url(.jpg);
+}
+
+/* Container 7 */
+.abajo4{
+position: absolute;
+width: 276px;
+height: 410px;
+left: 1032px;
+top: 128px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 2px rgba(23, 26, 31, 0.12), 0px 0px 1px rgba(23, 26, 31, 0.07);
+border-radius: 8px;
+}
+
+/* Luxury Charms */
+.luxuryn{
+position: absolute;
+width: 148px;
+height: 36px;
+left: 12px;
+bottom: 42px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height, or 150% */
+
+color: #171A1F;
+}
+
+
+/* $327.71 */
+.luxuryp{
+position: absolute;
+width: 53px;
+height: 26px;
+left: 12px;
+bottom: 18px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+color: #171A1F;
+}
+
+
+/* Image 7 */
+.luxury{
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 90px;
+
+background: url(.jpg);
+}
+
+/* Container 7 */
+.abajo5{
+position: absolute;
+width: 276px;
+height: 410px;
+left: 1332px;
+top: 128px;
+
+background: #FFFFFF;
+box-shadow: 0px 0px 2px rgba(23, 26, 31, 0.12), 0px 0px 1px rgba(23, 26, 31, 0.07);
+border-radius: 8px;
+}
+
+/* Blissful Bloom */
+.blissfuln{
+position: absolute;
+width: 138px;
+height: 36px;
+left: 12px;
+bottom: 42px;
+
+font-family: 'Cormorant Garamond';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height, or 150% */
+
+color: #171A1F;
+}
+
+
+/* $327.71 */
+.blissfulp{
+position: absolute;
+width: 54px;
+height: 26px;
+left: 12px;
+bottom: 18px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+color: #171A1F;
+}
+
+
+/* Image 7 */
+.blissful{
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 90px;
+
+background: url(.jpg);
+}
+
+/* View more */
+.viewmore{
+position: absolute;
+width: 76px;
+height: 26px;
+left: 1231px;
+top: 63px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+text-align: right;
+
+color: #565E6C;
+}
 
 
 

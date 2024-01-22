@@ -129,13 +129,32 @@ top: 265px;
 }
 
 /* Textbox 2 */
-.menu-desplegable {
+.menu-desplegablesort{
 position: absolute;
 width: 138px;
 height: 36px;
 left: calc(50% - 138px/2 + 519px);
 top: 522px;
+
 border-radius: 4px 4px 0px 0px;
+}
+
+/* Vector */
+.vectorsort{
+position: absolute;
+width: 138px;
+top: 36px;
+border: 1px;
+
+}
+
+/* Sort by price */
+.sort{
+position: absolute;
+height: 22px;
+left: 0px;
+right: 57px;
+top: calc(50% - 22px/2);
 
 font-family: 'Manrope';
 font-style: normal;
@@ -146,14 +165,17 @@ line-height: 22px;
 
 color: #171A1F;
 }
-.menu-desplegable:hover{
-    cursor: pointer;
-    font-weight: 900;
-    
+
+
+/* Chevron down large */
+.chevronsort{
+position: absolute;
+width: 16px;
+height: 16px;
+right: 0px;
+top: calc(50% - 16px/2);
 }
-.menu-desplegable{
-    text-decoration-line: underline;
-}
+
 
 .navboton {
     display: flex;
