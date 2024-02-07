@@ -1,0 +1,1 @@
+me excuso ante mi incumplimiento para la entrega del sprint 4, comprendo el pazo dado pero se me ha dificultado bastante estudiar/desarrollar debido a que me la he pasado en el hospital acompañando a mi pareja que se encuentra enfermo de salud, trataré de cumplir con mis obligacioones lo antes posible, muchas grcias
