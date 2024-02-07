@@ -8,7 +8,7 @@
 
 .encabezado{
     position: absolute;
-    width: 1440px;
+    /* width: 1440px; */
     height: 450px;
     left: 0px;
     right: 0px;
@@ -66,7 +66,7 @@ width: 70px;
 height: 4px;
 top: 39px;
 border-radius: 2px;
-left: 845px;
+left: 925px;
 
 }
 .encabezado a.shop {
@@ -249,6 +249,59 @@ top: calc(50% - 16px/2);
     background-color: #0D554A;
     padding: 8px 68px;
 }
+
+
+.card{
+    display: flex;
+    flex-direction: column;
+    width: 276px;
+    height: 404px;
+    cursor: pointer;
+    background-color:#FAFAFB;
+    border-radius: 8px ;
+}
+
+.card img{
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+.card h3{
+padding-top: 10px;
+    font-family: var(--font-title);
+    font-size: 18px;
+}
+
+.card span{
+padding-top: 10px;
+    font-family: var(--font-title);
+}
+
+#containerCards{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap: 50px;
+    padding-top: 50px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* Container 2 */
 .primera1{
 position: absolute;
@@ -263,13 +316,13 @@ border-radius: 8px;
 }
 
 /* Luxury Gems Necklace */
-.primera1 h1{
+.primera1 a{
 position: absolute;
 width: 219px;
 height: 36px;
 left: 12px;
 bottom: 36px;
-
+text-decoration: none;
 font-family: 'Cormorant Garamond';
 font-style: normal;
 font-weight: 700;
@@ -325,13 +378,13 @@ border-radius: 8px;
 }
 
 /* Aurora Ring */
-.primera2 h1{
+.primera2 a{
 position: absolute;
 width: 121px;
 height: 36px;
 left: 12px;
 bottom: 36px;
-
+text-decoration: none;
 font-family: 'Cormorant Garamond';
 font-style: normal;
 font-weight: 700;
@@ -389,13 +442,13 @@ border-radius: 8px;
 }
 
 /* Reflections Necklace */
-.primera3 h1 {
+.primera3 a {
 position: absolute;
 width: 199px;
 height: 36px;
 left: 12px;
 bottom: 36px;
-
+text-decoration: none;
 font-family: 'Cormorant Garamond';
 font-style: normal;
 font-weight: 700;
@@ -452,13 +505,13 @@ border-radius: 8px;
 }
 
 /* Dreamy Infinity Ring */
-.primera4 h1{
+.primera4 a{
 position: absolute;
 width: 205px;
 height: 36px;
 left: 12px;
 bottom: 36px;
-
+text-decoration: none;
 font-family: 'Cormorant Garamond';
 font-style: normal;
 font-weight: 700;
@@ -515,13 +568,13 @@ border-radius: 8px;
 }
 
 /* Opulent Jewels Ring */
-.primera5 h1{
+.primera5 a{
 position: absolute;
 width: 197px;
 height: 36px;
 left: 12px;
 bottom: 36px;
-
+text-decoration: none;
 font-family: 'Cormorant Garamond';
 font-style: normal;
 font-weight: 700;
@@ -578,13 +631,13 @@ border-radius: 8px;
 }
 
 /* Serene Solitaire Earrings */
-.primera6 h1{
+.primera6 a{
 position: absolute;
 width: 235px;
 height: 36px;
 left: 12px;
 bottom: 36px;
-
+text-decoration: none;
 font-family: 'Cormorant Garamond';
 font-style: normal;
 font-weight: 700;
@@ -641,13 +694,13 @@ border-radius: 8px;
 }
 
 /* Timeless Halo Earrings */
-.primera7 h1{
+.primera7 a{
 position: absolute;
 width: 221px;
 height: 36px;
 left: 12px;
 bottom: 36px;
-
+text-decoration: none;
 font-family: 'Cormorant Garamond';
 font-style: normal;
 font-weight: 700;
@@ -703,13 +756,13 @@ border-radius: 8px;
 }
 
 /* Exquisite Earrings */
-.primera8 h1{
+.primera8 a{
 position: absolute;
 width: 172px;
 height: 36px;
 left: 12px;
 bottom: 36px;
-
+text-decoration: none;
 font-family: 'Cormorant Garamond';
 font-style: normal;
 font-weight: 700;
@@ -765,13 +818,13 @@ border-radius: 8px;
 }
 
 /* Timeless Elegance Ring */
-.primera9 h1{
+.primera9 a{
 position: absolute;
 width: 262px;
 height: 42px;
 left: 24px;
 bottom: 38px;
-
+text-decoration: none;
 font-family: 'Cormorant Garamond';
 font-style: normal;
 font-weight: 700;
@@ -827,13 +880,13 @@ border-radius: 8px;
 }
 
 /* Luxury Charms Ring */
-.primera10 h1{
+.primera10 a{
 position: absolute;
 width: 200px;
 height: 36px;
 left: 12px;
 bottom: 36px;
-
+text-decoration: none;
 font-family: 'Cormorant Garamond';
 font-style: normal;
 font-weight: 700;
@@ -890,13 +943,13 @@ border-radius: 8px;
 }
 
 /* Blissful Bloom Ring */
-.primera11 h1{
+.primera11 a{
 position: absolute;
 width: 190px;
 height: 36px;
 left: 12px;
 bottom: 36px;
-
+text-decoration: none;
 font-family: 'Cormorant Garamond';
 font-style: normal;
 font-weight: 700;
@@ -953,13 +1006,13 @@ border-radius: 8px;
 }
 
 /* Sparkling Ring  */
-.primera12 h1{
+.primera12 a{
 position: absolute;
 width: 144px;
 height: 36px;
 left: 12px;
 bottom: 36px;
-
+text-decoration: none;
 font-family: 'Cormorant Garamond';
 font-style: normal;
 font-weight: 700;
@@ -1016,13 +1069,13 @@ border-radius: 8px;
 }
 
 /* Glimmering Ring */
-.primera13 h1{
+.primera13 a{
 position: absolute;
 width: 169px;
 height: 36px;
 left: 12px;
 bottom: 36px;
-
+text-decoration: none;
 font-family: 'Cormorant Garamond';
 font-style: normal;
 font-weight: 700;
@@ -1065,9 +1118,14 @@ border-top-left-radius: 8px;
 }
 
 .nav-numeros {
-padding-top: 1800px;
 padding-left: 546px;
 margin: 8px;
+}
+
+.numero1, .numero3, .numero10{
+
+    text-decoration: none;
+
 }
 
 
@@ -1248,7 +1306,7 @@ color: #9095A0;
 /* Container 1 */
 .parte3{
     position: absolute;
-    width: 1440px;
+    /* width: 1440px; */
     height: 234px;
     left: 0px;
     right: 0px;
